@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607041378553",
+    "project_id": "opportune-2726e",
+    "storage_bucket": "opportune-2726e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607041378553:android:e1997d2ea1746938472a28",
+        "android_client_info": {
+          "package_name": "com.example.opportune_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmm6lxYx2QmRxorZdd0B3-crsv6mMZKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
